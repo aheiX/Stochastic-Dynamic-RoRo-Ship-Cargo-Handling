@@ -34,5 +34,5 @@ htmlcov/
 
 # Project-specific ignores
 playground.py
-results/
-results_paper/
+# results/
+# results_paper/

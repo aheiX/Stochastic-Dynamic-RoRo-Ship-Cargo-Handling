@@ -38,7 +38,7 @@ pip install -r requirements.txt
 1. Prepare or update composition settings in `compositions.xlsx` (`runs` sheet).
 2. Start the main run script. 
 
-Info: You may want to use the compositions_example.xlsx file to see how it works for a small-scale example. 
+Info: You may want to use the compositions_input_example.xlsx file to see how it works for a small-scale example. 
 
 ## Outputs
 

@@ -1,0 +1,9 @@
+# This file lists the Python dependencies for the project. 
+# You can install them using pip:
+# pip install -r requirements.txt
+
+numpy
+openpyxl
+pandas
+plotly
+scipy
